@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true,
+  "files.eol": "\n",
+  "editor.formatOnSave": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs":"active",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+}
