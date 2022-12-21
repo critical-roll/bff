@@ -18,9 +18,9 @@
   "dependencies": {
     "@fastify/cookie": "^8.0.0",
     "@nestjs/axios": "^1.0.0",
-    "@nestjs/common": "^9.0.0",
+    "@nestjs/common": "^9.2.1",
     "@nestjs/config": "^2.2.0",
-    "@nestjs/core": "^9.0.0",
+    "@nestjs/core": "^9.2.1",
     "@nestjs/graphql": "^10.0.22",
     "@nestjs/jwt": "^9.0.0",
     "@nestjs/mercurius": "^10.0.22",
